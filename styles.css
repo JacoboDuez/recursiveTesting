@@ -1,0 +1,16 @@
+
+:root{
+    --mainBackground: rgb(31,78,120);
+}
+
+.myBody{
+    background-color: var(--mainBackground);
+}
+
+#output{
+    color:azure;
+    font-size: 2rem;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
